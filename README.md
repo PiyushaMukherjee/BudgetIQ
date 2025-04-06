@@ -1,5 +1,5 @@
 
-# BudgetIQ - AI-Powered Financial Management Platform
+# BudgetIQ - AI-Powered Financial Management Platform.
 
 BudgetIQ is an AI-driven financial management platform designed to simplify and optimize personal finance. It leverages smart categorization, real-time expense tracking, budgeting tools, and AI insights to help users make informed financial decisions.
 
